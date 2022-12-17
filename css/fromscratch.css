@@ -1,0 +1,43 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+font-size: large;
+color: darkblue;
+background-color: beige;
+}
+
+.header{
+    top: auto;
+    left: auto;
+    right: auto;
+    height: auto;
+    border-bottom: solid 1px black;
+}
+
+.menu{
+    top: auto;
+    left: auto;
+    width: auto;
+    bottom: auto;
+    padding-top: 30px;
+    border-right: solid 1px black;
+}
+
+.body{
+    top: auto;
+    left: auto;
+    right: auto;
+    bottom: auto;
+    padding-right: 5px;
+}
+
+.bottom{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    font-size: large;
+    text-align: right;
+    padding-top: 15px;
+    position: fixed;
+    color: navy;
+}
